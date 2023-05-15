@@ -1,0 +1,8 @@
+
+/.idea/
+/harry-kart.iml
+**/target/
+\.gradle/
+\.gradle_cache/
+**/build/
+.DS_Store

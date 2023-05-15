@@ -1,0 +1,18 @@
+<harryKart>
+    <numberOfLoops>3</numberOfLoops>
+    <startList>
+        <participant>
+            <lane>1</lane>
+            <name>TIMETOBELUCKY</name>
+            <baseSpeed>10</baseSpeed>
+        </participant>
+    </startList>
+    <powerUps>
+        <loop number="1">
+            <lane number="1">1</lane>
+        </loop>
+        <loop number="2">
+            <lane number="1">1</lane>
+        </loop>
+    </powerUps>
+</harryKart>

@@ -1,0 +1,4 @@
+harry-kart:
+  schema-file-name: "input.xsd"
+  track-length: 1000
+  top-n-participant: 3
